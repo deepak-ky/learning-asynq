@@ -2,7 +2,7 @@
 
 Basic framework of Asynq: 
 
-![Untitled](Asynq%204657740a10be417d91b32c90e7de32bf/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2cca07-8579-43d0-b578-d16891f5ca43/7dca8858-2229-46b6-ba60-cdcb3d2db065/Untitled.png)
 
 We are going to write two programs
 
@@ -827,9 +827,7 @@ ServeMux is a multiplexer for asynchronous tasks.
 ~ A multiplexer in electronics
 
  
-
-![Untitled](Asynq%204657740a10be417d91b32c90e7de32bf/Untitled%201.png)
-
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2cca07-8579-43d0-b578-d16891f5ca43/7f729c0a-4456-46d1-ad6b-1434271a81b5/Untitled.png)
 It matches the type of each task against a list of registered patterns 
 
 and calls the handler for the pattern that most closely matches the task’s type name
